@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Videos</title>
+  </head>
+  <body>
+    <h1>Videos</h1>
+
+    <div>
+      <h2>Default</h2>
+      <video src="./assets/laptop.mp4" width="400"></video>
+    </div>
+
+    <div>
+      <h2>Controls and Poster</h2>
+      <video src="./assets/laptop.mp4" poster="./assets/poster.png" controls width="400"></video>
+    </div>
+
+    <div>
+      <h2>No Download, Autoplay and Muted</h2>
+      <video src="./assets/laptop.mp4" controls autoplay muted controlsList="nodownload" width="400"></video>
+    </div>
+
+    <div>
+      <h2>Other Formats</h2>
+      <video height="200" controls>
+        <source src="./assets/laptop.mkv" />
+        <source src="./assets/laptop.mp4" />
+      </video>
+    </div>
+  </body>
+</html>

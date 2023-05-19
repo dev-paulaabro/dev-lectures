@@ -11,3 +11,5 @@
 - ### `code-07`: [Lists](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-01/code-07)
 - ### `code-08`: [Structure Elements](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-01/code-08)
 - ### `code-09`: [Images](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-01/code-09)
+- ### `code-10`: [Table](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-01/code-10)
+- ### `code-11`: [Videos](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-01/code-11)
