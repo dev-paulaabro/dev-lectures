@@ -8,3 +8,4 @@
 - ### `code-04`: [Text Tags](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-01/code-04)
 - ### `code-05`: [Navigating Paths](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-01/code-05)
 - ### `code-06`: [Links](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-01/code-06)
+- ### `code-07`: [Lists](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-01/code-07)
