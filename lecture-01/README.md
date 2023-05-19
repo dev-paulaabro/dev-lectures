@@ -9,3 +9,5 @@
 - ### `code-05`: [Navigating Paths](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-01/code-05)
 - ### `code-06`: [Links](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-01/code-06)
 - ### `code-07`: [Lists](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-01/code-07)
+- ### `code-08`: [Structure Elements](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-01/code-08)
+- ### `code-09`: [Images](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-01/code-09)
