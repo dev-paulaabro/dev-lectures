@@ -1,0 +1,82 @@
+html {
+  font-size: 20px;
+}
+
+.px {
+  font-size: 14px;
+}
+
+.cm {
+  font-size: 0.4cm;
+}
+
+.mm {
+  font-size: 4mm;
+}
+
+.in {
+  font-size: 0.16in;
+}
+
+.percentage-container {
+  width: 500px;
+  height: 500px;
+  font-size: 14px;
+  background: palegreen;
+}
+
+.percentage-text {
+  width: 50%;
+  height: 50%;
+  font-size: 150%;
+  background: mediumpurple;
+}
+
+.viewport-container {
+  width: 50vw;
+  height: 20vh;
+  background: tomato;
+}
+
+.parent-container {
+  width: 50vw;
+  height: 50vh;
+  background: cornflowerblue;
+  font-size: 32px;
+}
+
+.child-container-1 {
+  width: 50%;
+  height: 30%;
+  font-size: 0.5em;
+  background: hotpink;
+}
+
+.child-container-2 {
+  width: 50%;
+  height: 30%;
+  font-size: 0.5rem;
+  background: gold;
+}
+
+.grandparent-box {
+  width: 50vw;
+  height: 50vh;
+  background: darkcyan;
+  font-size: 32px;
+}
+
+.parent-box {
+  background: cyan;
+  font-size: 2em;
+}
+
+.child-box-1 {
+  background: magenta;
+  font-size: 2em;
+}
+
+.child-box-2 {
+  font-size: 2rem;
+  background: plum;
+}
