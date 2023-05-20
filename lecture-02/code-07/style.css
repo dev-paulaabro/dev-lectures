@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital@0;1&display=swap");
+
+h1 {
+  color: crimson;
+  font-size: 36px;
+}
+
+.roboto {
+  color: deepskyblue;
+  font-family: "ROboto", sans-serif;
+  font-weight: 500;
+}
+
+p {
+  font-size: 20px;
+}
+
+.lighter {
+  font-weight: lighter; /* 100 */
+}
+
+.bolder {
+  font-weight: bolder; /* 700 */
+}
+
+.ubuntu {
+  color: hotpink;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.tall {
+  line-height: 80px;
+}
+
+.letter-space {
+  letter-spacing: 20px;
+}
+
+.word-space {
+  word-spacing: 40px;
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+
+.center {
+  text-align: center;
+}
+
+.justify {
+  text-align: justify;
+}
+
+.upper {
+  text-transform: uppercase;
+}
+
+.lower {
+  text-transform: lowercase;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.overline {
+  text-decoration: overline;
+}
+
+.shadow {
+  text-shadow: 5px 10px 3px pink;
+}
