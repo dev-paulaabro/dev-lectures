@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Semantic Tags</title>
+  </head>
+  <body>
+    <header>
+      <h1>Semantic Tags</h1>
+      <nav>
+        <a href="#header"><code>header</code></a>
+        <a href="#nav"><code>nav</code></a>
+        <a href="#main"><code>main</code></a>
+        <a href="#article"><code>article</code></a>
+        <a href="#section"><code>section</code></a>
+        <a href="#aside"><code>aside</code></a>
+        <a href="#footer"><code>footer</code></a>
+      </nav>
+    </header>
+    <main>
+      <h2>Uses</h2>
+      <section aria-labelledby="header">
+        <h3 id="header"><code>header</code></h3>
+        <p>
+          The header tag defines content that should be considered the introductory information of a page or section.
+        </p>
+      </section>
+      <section aria-labelledby="nav">
+        <h3 id="nav"><code>nav</code></h3>
+        <p>
+          The navigation tag is used for navigation links. It can be nested within the
+          <em>header</em> tag, but secondary navigation <em>nav</em> tags are also commonly used elsewhere on the page.
+        </p>
+      </section>
+      <section aria-labelledby="main">
+        <h3 id="main"><code>main</code></h3>
+        <p>
+          This tag contains the main content (also called the body) of a page. There should be only one tag per page.
+        </p>
+      </section>
+      <section aria-labelledby="article">
+        <h3 id="article"><code>article</code></h3>
+        <p>
+          The article tag defines content that could stand independently of the page or site it's on. It does not
+          necessarily mean a "blog post". Think of it more as "an article of clothing" — a self-contained item that can
+          be used in various contexts.
+        </p>
+        <p></p>
+      </section>
+      <section aria-labelledby="section">
+        <h3 id="section"><code>section</code></h3>
+        <p>
+          Using <em>section</em> is a way of grouping nearby content of a similar theme. A section tag differs from an
+          article tag. It isn't necessarily self-contained, but it forms part of something else.
+        </p>
+      </section>
+      <section aria-labelledby="aside">
+        <h3 id="aside"><code>aside</code></h3>
+        <p>
+          An aside element defines content that's less important. It's often used for sidebars—areas that add
+          complementary but nonessential information.
+        </p>
+      </section>
+      <section aria-labelledby="footer">
+        <h3 id="footer"><code>footer</code></h3>
+        <p>
+          You use <em>footer</em> at the bottom of a page. It usually includes contact information, copyright
+          information, and some site navigation.
+        </p>
+      </section>
+    </main>
+    <footer>
+      <p>More info: <a href="https://www.w3.org/TR/2009/WD-html5-20090825/semantics.html" target="_blank">W3C</a></p>
+    </footer>
+  </body>
+</html>

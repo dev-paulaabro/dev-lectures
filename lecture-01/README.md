@@ -16,4 +16,5 @@
 - ### `code-12`: [iframe](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-01/code-12)
 - ### `code-13`: [Inputs](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-01/code-13)
 - ### `code-14`: [Form](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-01/code-14)
-- ### `code-14`: [Buttons](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-01/code-15)
+- ### `code-15`: [Buttons](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-01/code-15)
+- ### `code-16`: [Semantic Tags](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-01/code-16)
