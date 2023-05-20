@@ -1,0 +1,14 @@
+h1 {
+  color: tomato;
+  background: blanchedalmond;
+}
+
+p {
+  color: dodgerblue;
+  font-size: 20px;
+}
+
+button {
+  background: springgreen;
+  border-color: seagreen;
+}
