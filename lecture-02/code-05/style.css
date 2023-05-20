@@ -1,0 +1,55 @@
+body {
+  background: bisque;
+}
+
+.rgb-red {
+  background: rgb(255 0 0);
+}
+
+.rgb-green {
+  background: rgb(0 255 0);
+}
+
+.rgb-blue {
+  background: rgb(0 0 255);
+  color: rgb(255 255 255);
+}
+
+.rgb-black {
+  background: rgb(0 0 0);
+  color: rgb(255 255 255);
+}
+
+.rgb-white {
+  background: rgb(255 255 255);
+}
+
+.rgb-mix {
+  background: rgb(255, 0, 89);
+}
+
+.hex-red {
+  background: #f00;
+}
+
+.hex-green {
+  background: #0f0;
+}
+
+.hex-blue {
+  background: #00f;
+  color: #fff;
+}
+
+.hex-black {
+  background: #000;
+  color: #fff;
+}
+
+.hex-white {
+  background: #fff;
+}
+
+.hex-mix {
+  background: #ff0059;
+}
