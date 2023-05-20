@@ -1,0 +1,28 @@
+* {
+  background: aliceblue;
+}
+
+#title {
+  color: crimson;
+  font-size: 55px;
+}
+
+#main-lorem {
+  color: dodgerblue;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.lorem,
+.btn {
+  color: hotpink;
+  font-weight: bold;
+}
+
+#wrong {
+  background: mediumspringgreen;
+}
+
+#right {
+  background: tomato;
+}
