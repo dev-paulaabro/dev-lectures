@@ -14,3 +14,4 @@
 - ### `code-10`: [Table](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-01/code-10)
 - ### `code-11`: [Videos](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-01/code-11)
 - ### `code-12`: [iframe](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-01/code-12)
+- ### `code-13`: [Inputs](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-01/code-12)

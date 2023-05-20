@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Inputs</title>
+  </head>
+  <body>
+    <h1>Inputs</h1>
+    <div>
+      <h2>Attributes</h2>
+
+      <div>
+        <h3>Default</h3>
+        <input />
+      </div>
+
+      <div>
+        <h3>Autocomplete</h3>
+        <input autocomplete="name" />
+      </div>
+
+      <div>
+        <h3>Disabled</h3>
+        <input disabled />
+        <input disabled value="Paula" />
+      </div>
+
+      <div>
+        <h3>Read-only</h3>
+        <input readonly value="Paula" />
+      </div>
+
+      <div>
+        <h3>Placeholder</h3>
+        <input placeholder="Enter your name..." />
+      </div>
+
+      <div>
+        <h3>Labels</h3>
+        <label>
+          First Name:
+          <input />
+        </label>
+        <br />
+
+        <label for="last-name">Last Name:</label>
+        <input id="last-name" />
+      </div>
+
+      <div>
+        <h3>Auto-focus</h3>
+        <input autofocus />
+      </div>
+    </div>
+
+    <div>
+      <h2>Types</h2>
+
+      <div>
+        <h3>Color</h3>
+        <input type="color" />
+      </div>
+
+      <div>
+        <h3>Range</h3>
+        <input type="range" min="0" max="100" value="50" />
+      </div>
+
+      <div>
+        <h3>Password</h3>
+        <input type="password" />
+      </div>
+
+      <div>
+        <h3>E-mail</h3>
+        <input type="email" />
+      </div>
+
+      <div>
+        <h3>Checkbox</h3>
+        <label>
+          Do you want to subscribe?
+          <input type="checkbox" />
+        </label>
+      </div>
+
+      <div>
+        <h3>File</h3>
+        <input type="file" />
+        <input type="file" multiple />
+        <input type="file" multiple accept="image/*" />
+      </div>
+
+      <div>
+        <h3>Number</h3>
+        <input type="number" />
+      </div>
+
+      <div>
+        <h3>Date</h3>
+        <input type="date" />
+      </div>
+
+      <div>
+        <h3>Radio</h3>
+        <div>
+          <h4>What's your favorite social media?</h4>
+
+          <div>
+            <input type="radio" name="social-media" id="instagram" />
+            <label for="instagram">Instagram</label>
+          </div>
+
+          <div>
+            <input type="radio" name="social-media" id="facebook" />
+            <label for="facebook">Facebook</label>
+          </div>
+
+          <div>
+            <input type="radio" name="social-media" id="twitter" />
+            <label for="twitter">Twitter</label>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
