@@ -11,3 +11,4 @@
 - ### `code-07`: [Text Properties](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-02/code-07)
 - ### `code-08`: [margin & padding](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-02/code-08)
 - ### `code-09`: [box-sizing](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-02/code-09)
+- ### `code-10`: [Display: block, inline and inline-block](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-02/code-10)
