@@ -10,3 +10,4 @@
 - ### `code-06`: [Units](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-02/code-06)
 - ### `code-07`: [Text Properties](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-02/code-07)
 - ### `code-08`: [margin & padding](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-02/code-08)
+- ### `code-09`: [box-sizing](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-02/code-09)
