@@ -9,3 +9,4 @@
 - ### `code-05`: [Colors](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-02/code-05)
 - ### `code-06`: [Units](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-02/code-06)
 - ### `code-07`: [Text Properties](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-02/code-07)
+- ### `code-08`: [margin & padding](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-02/code-08)
