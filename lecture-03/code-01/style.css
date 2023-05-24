@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+}
+
+.text-1 {
+  color: crimson;
+  color: dodgerblue;
+}
+
+.text-2 {
+  color: crimson !important;
+  color: dodgerblue;
+}
