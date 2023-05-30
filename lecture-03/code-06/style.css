@@ -1,0 +1,69 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 200vw;
+  height: 200vh;
+  background: bisque;
+}
+
+.grandfather {
+  width: 500px;
+  height: 500px;
+  margin-top: 50px;
+  display: inline-block;
+}
+
+.papa-1 {
+  background: crimson;
+}
+
+.father {
+  width: 400px;
+  height: 400px;
+  background: dodgerblue;
+}
+
+.son {
+  width: 200px;
+  height: 200px;
+  background: springgreen;
+}
+
+.uncle {
+  width: 300px;
+  height: 300px;
+  background: tomato;
+}
+
+.papa-1 .father {
+  opacity: 0.6;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+.papa-2 {
+  position: relative;
+  background: royalblue;
+}
+
+.papa-2 .father {
+  opacity: 0.6;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+.papa-3 {
+  background: darkorange;
+}
+
+.papa-3 .son {
+  position: absolute;
+  top: 200px;
+  left: 200px;
+}
