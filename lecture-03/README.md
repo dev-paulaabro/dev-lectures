@@ -8,3 +8,4 @@
 - ### `code-04`: [Position: sticky](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-03/code-04)
 - ### `code-05`: [Position: relative](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-03/code-05)
 - ### `code-06`: [Position: absolute](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-03/code-06)
+- ### `code-07`: [Pseudo Elements](https://github.com/dev-paulaabro/dev-lectures/tree/main/lecture-03/code-07)

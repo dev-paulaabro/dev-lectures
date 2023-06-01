@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+input {
+  border: 3px solid crimson;
+  border-radius: 5px;
+  color: dodgerblue;
+}
+
+input::placeholder {
+  color: magenta;
+}
+
+.lorem-1::first-letter {
+  color: magenta;
+}
+
+.lorem-2::first-line {
+  color: magenta;
+}
+
+a {
+  color: deepskyblue;
+  text-decoration: none;
+}
+
+a::before {
+  content: "🚀 ";
+}
+
+a::after {
+  content: " 🚀";
+}
